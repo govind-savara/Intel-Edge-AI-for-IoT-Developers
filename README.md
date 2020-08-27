@@ -15,3 +15,9 @@ We also, learn how to optimize our model and application code to reduce inferenc
 
 ## Projects
 
+### Deploy a People Counter App at the Edge
+>[P1_Deploy-a-People-Counter-App-at-the-Edge](https://github.com/govind-savara/Intel-Edge-AI-for-IoT-Developers/tree/master/P1_Deploy-a-People-Counter-App-at-the-Edge)
+
+The people counter application will demonstrate how to create a smart video IoT solution using Intel® hardware and software tools. The app will detect people in a designated area, providing the number of people in the frame, average duration of people in frame, and total count.
+
+![People Counter App](./P1_Deploy-a-People-Counter-App-at-the-Edge/images/people_count_sample_3.JPG)

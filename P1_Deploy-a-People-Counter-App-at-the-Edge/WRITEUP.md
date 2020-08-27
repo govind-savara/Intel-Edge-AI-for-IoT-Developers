@@ -102,7 +102,7 @@ In investigating potential people counter models, I tried each of the following 
 
 - Model 3: [person-detection-retail-0013](https://docs.openvinotoolkit.org/latest/_models_intel_person_detection_retail_0013_description_person_detection_retail_0013.html)
   - Pre-trained model on OpenVINO
-  - Download person-detection-retail-0013 model
+  - Download person-detection-retail-0013 model  
   `sudo /opt/intel/openvino/deployment_tools/open_model_zoo/tools/downloader/downloader.py --name person-detection-retail-0013 --precisions FP32`
   - The model is very light, takes less time for inference and the accuracy is also good.
 
