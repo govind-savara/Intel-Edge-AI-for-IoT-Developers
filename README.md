@@ -21,3 +21,17 @@ We also, learn how to optimize our model and application code to reduce inferenc
 The people counter application will demonstrate how to create a smart video IoT solution using Intel® hardware and software tools. The app will detect people in a designated area, providing the number of people in the frame, average duration of people in frame, and total count.
 
 ![People Counter App](./P1_Deploy-a-People-Counter-App-at-the-Edge/images/people_count_sample_3.JPG)
+
+### Smart Queuing System
+>[P2_Smart-Queuing-System](https://github.com/govind-savara/Intel-Edge-AI-for-IoT-Developers/tree/master/P2_Smart-Queuing-System)
+
+In this project we worked on three different scenarios that depict real-world problems based on different sectors where edge devices are typically deployed.
+
+The three scenarios we will be looking at are:
+- Scenario 1: Manufacturing Sector
+- Scenario 2: Retail Sector
+- Scenario 3: Transportation Sector
+
+All of the scenarios involve people in queues, but each scenario will require different hardware. In this project we used different devices (CPU, GPU, VPU, and FPGA) to run the model and using the results we proposed a suitable device for the respective scenario.
+
+![Smart Queuing System](./P2_Smart-Queuing-System/images/retail_scenario_model_result.gif)
