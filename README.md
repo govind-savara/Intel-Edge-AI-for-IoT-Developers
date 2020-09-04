@@ -35,3 +35,10 @@ The three scenarios we will be looking at are:
 All of the scenarios involve people in queues, but each scenario will require different hardware. In this project we used different devices (CPU, GPU, VPU, and FPGA) to run the model and using the results we proposed a suitable device for the respective scenario.
 
 ![Smart Queuing System](./P2_Smart-Queuing-System/images/retail_scenario_model_result.gif)
+
+### Computer Pointer Controller
+>[P3_Computer-Pointer-Controller](https://github.com/govind-savara/Intel-Edge-AI-for-IoT-Developers/tree/master/P3_Computer-Pointer-Controller)
+
+In this project used the gaze detection model to control the computer mouse pointer. Using the [Gaze Estimation]() model to estimate the gaze of the user's eyes and changed the mouse pointer position accordingly. Also this project uses multiple models in  the same machine and coordinate the flow of data between those models.
+
+![Computer Pointer Controller](./P3_Computer-Pointer-Controller/images/mouse_pointer_controller.gif)
